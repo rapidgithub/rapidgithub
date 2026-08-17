@@ -1,6 +1,5 @@
-- 👋 Hi, I’m an SRE 
-- 👀 I’m interested in data science, big data, monitoring, and logging solutions for automated troubleshooting and RCA
-- 💞️ I’m looking to collaborate on open source projects
+- 👋 Hi, I’m an emerging tech enthusiast 
+- 👀 I’m interested in making use of AI automated troubleshooting and RCA
 
 <!---
 rapidgithub/rapidgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
