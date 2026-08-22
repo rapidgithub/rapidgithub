@@ -1,5 +1,5 @@
 - 👋 Hi, I’m an emerging tech enthusiast 
-- 👀 I’m interested in making use of AI automated troubleshooting and RCA
+- 👀 I’m interested in making AI-automated troubleshooting and RCA
 
 <!---
 rapidgithub/rapidgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
